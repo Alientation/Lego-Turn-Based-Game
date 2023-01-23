@@ -5,5 +5,5 @@ A program written to assist with a personal rts lego game I played with my broth
   - Command line interface for the user to input actions for the game to process
   - Save/Load/Create a game
 
-## WARNING
+## WARNING (TW BAD CODE)
 Project contains GARBAGE code

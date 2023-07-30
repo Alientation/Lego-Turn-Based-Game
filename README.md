@@ -6,4 +6,4 @@ A program written to assist with a personal rts lego game I played with my broth
   - Save/Load/Create a game
 
 ## WARNING (TW BAD CODE)
-Project contains GARBAGE code
+Project contains GARBAGE code written by a former 15 year old me
